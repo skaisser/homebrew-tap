@@ -1,0 +1,3 @@
+# Override GitHub language detection — this is a Homebrew tap, not a Ruby project
+Formula/*.rb linguist-vendored
+*.rb linguist-vendored
