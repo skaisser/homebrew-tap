@@ -36,7 +36,7 @@ blueprint version
 Blueprint turns [Claude Code](https://docs.anthropic.com/en/docs/claude-code) into a disciplined engineering team. One CLI, 27 slash commands, 15 audit rules — from idea to merged PR.
 
 ```
-/backlog → /plan → /plan-review → /plan-approved → /plan-check → /pr → /review → /finish
+/backlog → /plan → /plan-review → /plan-approved → /plan-check → /pr → /review → /address-pr → /finish
 ```
 
 ### CLI Commands
