@@ -1,0 +1,17 @@
+.DS_Store
+*.DS_Store
+CLAUDE.md
+tmp/
+
+# --- SDLC exclusions ---
+AGENTS.md
+CLAUDE.md
+GEMINI.md
+.opencode/
+.codex/
+.gemini/
+.agents/
+.planning/
+graphify-out/
+.firecrawl/
+docs/translations/
